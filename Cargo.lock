@@ -229,7 +229,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "godaddy_dns"
+name = "godaddy_ddns"
 version = "0.1.0"
 dependencies = [
  "godaddy_api",
